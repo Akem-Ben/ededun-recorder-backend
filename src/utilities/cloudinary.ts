@@ -18,11 +18,12 @@ const storage = new CloudinaryStorage({
     params: async (req, file) => {
         try {
             if (!file) throw new Error("File is required");
-
-            const isVideo = file.mimetype.startsWith("video/");
+            
             return {
-                folder: isVideo ? "Eventyzze/Videos" : "Eventyzze/Images",
-                resource_type: isVideo ? "video" : "image",
+                folder: "Ededun/Audio",
+                resource_type: "raw",
+                // For audio files specifically
+                format: file.originalname.split('.').pop()
             };
         } catch (error: any) {
             console.error(`Cloudinary storage error: ${error.message}`);
@@ -35,15 +36,12 @@ const cloud = multer({
     storage: storage,
     fileFilter: (req: Request, file, cb) => {
         try {
-            if (
-                file.mimetype.startsWith("image/") ||
-                file.mimetype.startsWith("video/")
-            ) {
+            if (file.mimetype.startsWith("audio/")) {
                 cb(null, true);
             } else {
                 console.error(`Invalid file type: ${file.mimetype}`);
                 cb(null, false);
-                return cb(new Error("Only image and video formats are allowed"));
+                return cb(new Error("Only audio formats are allowed"));
             }
         } catch (error: any) {
             console.error(`File filter error: ${error.message}`);
@@ -53,7 +51,7 @@ const cloud = multer({
     limits: {
         fileSize: 50 * 1024 * 1024
     }
-}).fields([{ name: "image", maxCount: 1 }, { name: "video", maxCount: 1 }]);
+}).fields([{ name: "audio", maxCount: 1 }]);
 
 const upload = (req: Request, res: Response, next: Function) => {
     

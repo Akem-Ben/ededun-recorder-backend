@@ -1,16 +1,14 @@
 import express from 'express';
 import { joiValidators } from '../../validations';
-// import { userAuthController, userController } from '../../controllers';
-import { generalAuthFunction } from '../../middlewares/authorization';
-import { cloudinaryUtilities } from '../../utilities';
+// import { generalAuthFunction } from '../../middlewares/authorization';
+// import { cloudinaryUtilities } from '../../utilities';
+import { adminControllers } from '../../controllers';
 
 const router = express.Router();
 
-//User Email Authentications and profile updates
-// router.post(
-//   '/email-signup',
-//   joiValidators.inputValidator(joiValidators.userRegisterSchemaViaEmail),
-//   userAuthController.userRegisterWithEmail,
-// );
+router.post('/create-phrase', joiValidators.inputValidator(joiValidators.createPhraseSchema), adminControllers.adminCreatePhrase)
+router.put('/update-phrase/:phraseId', adminControllers.adminUpdatesPhrase)
+router.delete('/delete-phrase/:phraseId', adminControllers.adminDeletesPhrase)
+router.post('/add-many-phrases', adminControllers.adminCreatesManyPhrases)
 
 export default router;

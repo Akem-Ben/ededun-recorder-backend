@@ -14,10 +14,10 @@ const transport = nodemailer.createTransport({
 
 
 const sendMail = async (
-  to: string, 
-  message: string, 
-  subject: string, 
-  actionLink?: string, 
+  to: string,
+  message: string,
+  subject: string,
+  actionLink?: string,
   actionText?: string
 ) => {
   try {
@@ -27,7 +27,7 @@ const sendMail = async (
       subject,
       html: `
         <div style="width: 60%; margin: 0 auto; text-align: center; padding: 20px; border-radius: 10px; border: 2px solid gold; background-color: #fffaf0; font-family: Arial, sans-serif;">
-          <h3 style="font-size: 24px; color: #d2691e; margin-bottom: 10px;">Welcome to Eventyzze!!!</h3>
+          <h3 style="font-size: 24px; color: #d2691e; margin-bottom: 10px;">Welcome to Èdèdún!!!</h3>
           <p style="font-size: 18px; color: #8b4513; margin: 10px 0;">
             ${message}
           </p>
@@ -50,6 +50,6 @@ const sendMail = async (
 
 
 
-  export default {
-    sendMail
-  }
+export default {
+  sendMail
+}

@@ -7,16 +7,16 @@ export interface UserAttributes {
     firstName: string;
     lastName: string;
     email: string;
-    password:string;
+    password: string;
     role: Roles;
     refreshToken: string;
 }
 
 
 export interface PhraseAttributes {
-        id: string;
-        english_text: string;
-        yoruba_text: string;
+    id: string;
+    english_text: string;
+    yoruba_text: string;
 }
 
 export interface RecordingAttributes {

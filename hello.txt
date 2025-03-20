@@ -1,0 +1,501 @@
+"yoruba_text": "A fẹ́ lọ wo eré ìtàgé ní Oríta Mẹ́rin."
+"yoruba_text": "A fẹ́ ṣe ìṣàfihàn àwọn ohun abẹ̀mí nínú litírésọ̀ Yorùbá."
+"yoruba_text": "A lọ s’éjìgbò ní’jọ̀ọ́sí."
+"yoruba_text": "A máa ń rí ìjẹyọ ìlù lílù, ijó jíjó, ẹ̀fẹ̀ ṣís̀e, oríkì kíkì, èébú bíbú, ìkìlò ṣíṣe."
+"yoruba_text": "À ń lùú, ó ń dun. Ọpẹ́ ló yẹ wá."
+"yoruba_text": "À ná tó ẹgbẹ̀rún náírà sí nǹkan ọ̀hún."
+"yoruba_text": "A nílò ọgbà ńlá láti gbin àwọn èso náà."
+"yoruba_text": "A ò ní rìn ní ọjọ́ tí ebí ń pa ọ̀nà. [external]"
+"yoruba_text": "A ó pàdé nílé ẹjọ́ tàbí àgọ́ ọlọ́pàá."
+"yoruba_text": "Á ṣeé ṣe lágbára ọlọ́run."
+"yoruba_text": "Áà! inú òjò l’àwọn omọ yí ti ń ṣeré."
+"yoruba_text": "Àafin ọba náà ti kéré jù."
+"yoruba_text": "Ààrẹ orílẹ̀ èdè ń bọ̀ ní Civic Ceter ní ọ̀la òde yìí."
+"yoruba_text": "Ààrẹ orílè-èdè Nàìjíríà ni Mohammadu Buhari."
+"yoruba_text": "Àárò Wọnúọlá sọ̀ mí."
+"yoruba_text": "Abẹ́ igi ọdán ni bàbá ti ń jayé."
+"yoruba_text": "Àbẹ̀kẹ́ mu àgbo títí tí ó fi fẹ́ bì. [external]"
+"yoruba_text": "Abọ́ wà nínú korobá náà."
+"yoruba_text": "Adájọ́ dáa lébi ẹ̀sùn táa fi kàn-án."
+"yoruba_text": "Àdàkọ ni gbogbo wọ́n ṣe."
+"yoruba_text": "Adé ti lọ sí ọ̀dọ̀ bàbá rè láti lọ fi àwọn nǹkan kan tó o létí."
+"yoruba_text": "Adébámbọ̀ mú àfẹ́sọ́nà rẹ̀ wá s’ọ́dọ̀ ìyá àgbà."
+"yoruba_text": "Adébọ̀wálé sọ pé òun ò mọ̀ bí aṣọ òun ṣe sọnù."
+"yoruba_text": "Adéẹ̀kọ́ ní òun nífẹ omi ju ọtí lọ."
+"yoruba_text": "Adémìlúyìí ni orúkọ tí a fẹ́ mọ ọmọ náà sí."
+"yoruba_text": "Adémọ́lá nìkan ni ẹni tó mọ̀ ẹ̀dùn ọkàn mi."
+"yoruba_text": "Adéwálé gbé egbòogi olóró wo ilẹ̀ Amẹ́ríkà."
+"yoruba_text": "Adéyinká sọ pé òun ò lè jẹ́ kí ẹnikẹ́ni máa ku akókò òun dànù bí èlùbọ́."
+"yoruba_text": "Adìyẹ àti pẹ́pẹ́yẹ ni wọ́n kan pákó náà fún."
+"yoruba_text": "Àdúgbò náà máa ń dákẹ́ rọ́rọ́."
+"yoruba_text": "Àdùké kò ní pẹ́ gboyè ìmọ̀ nínú òfin."
+"yoruba_text": "Àdùkẹ́ ń ta Mọ́sà ní àdúgbò kan ní Olúwọlé."
+
+
+Àdùkẹ́ ti sanra ju ọjọ́ orí rẹ̀ lọ.
+Àdúrà gbogbo òbí ni kí ọmọ wọ́n ṣ’oríire.
+Afẹ́fẹ́ náà pò ju kí èyàn bọ́ aṣọ sílẹ̀ lọ.
+Àgbàlá Bàbá Fọlákẹ́ ni àwọn ọmọ ti máa ń ṣ’eré ní ìrọ̀lẹ́.
+Àgbantara ni bàbá àgbà fi máa ń nara ní abẹ́ igi ọsàn.
+Agbọ́n ta Ṣubúọlá.
+Àgbọn wà ní orí igi náà.
+Àgbònrín mẹ́ta ń sọdá.
+Àgùntàn l’ẹranko tó gọ̀ jù.
+Àìgbọ́fá là ń wò’kè, ifá kan ò sí ní párá.
+Àjàlá òun Àyìnlá ti ń ṣe ọ̀rẹ́ láti ìgbà kékeré wọn, inú agbolé kan ni wọ́n bí wọn sí.
+Àkèré fi inú ṣe ọgbọ́n ni wọ́n ń pèé.
+Akíntópé kì í ṣẹgbẹ́ẹ Ọládìjì rárá.
+Akíntúndé ti ṣètò gbogbo ìwé ìrìn àjò mi.
+Àkìtàn ni gbogbo àdúgbò náà ní ayé ìgbà kan. [external]
+Akọ́lédowó ti kọ́lẹ́ alájà méje. [external]
+Alábòsí ni wọ́n, àfàìmọ̀ kí ìṣe burúkú náà má bá wọn dàgbà.
+Alákọrí ni Àkànbí tó k’àkànpọ̀ nínú ooru.
+Aláta rodo ti dé o, ṣé ẹ fẹ́ rà àbí ẹ ò rà?
+Alọ́ba fi ewé wé ọṣẹ náà.
+Àlùfáà yín tuntun ti ṣiṣẹ̀ ní ìjọ wa rí.
+Àmì ayò mẹ́rin sí òdo ni Manchester United fi na Chelsea ní àná.
+Àǹkárá olójúméje ni Ṣaléwá wọ̀.
+Apá Káróunwí ti kán.
+Àpò ṣaka ni wọ́n kó gbogbo ẹrù wọn sí nígbà tí wọ́n lọ sí ìrìn àjò náà.
+Àpótí tí mo sọnù kéré ju èyí tí mo gbé lọ s'ọ́jà lọ.
+Àra mí ń kóná ní ooru m’ọ́jú, ọpẹ́lọpẹ́ Ṣayọ̀ tó tọ́jú mi.
+Ara rẹ̀ kìí lélẹ̀ tó bá ti wà lẹ́gbẹ ìyàwó rẹ̀ kejì.
+Arẹ́gbẹ́ṣọlá ti di ògbóǹtarìgì ọ̀ta nínú ayò ọlọ́pọ́n títa ò.
+Àrẹ̀mú ló ṣíṣẹ́ náà, ó ṣì ṣee dáadáa. [external]
+Àrèó máa ń fi ìwà tútù tanijẹ.
+Àríkẹ́adé tún ti fẹ́rakù.
+Ariwo yín ti pọ̀ jù.
+Àṣáró elépo rẹ́dẹ́rẹ́dẹ́ ni mo bá nígbà tí mo ti Ibi’ṣẹ́ dé.
+Aṣọ híhun jẹ́ iṣẹ́ kan tí àwọn obìnrin yàn láàyò ní ìlú wa.
+Aṣọ ìbora wọn dà ná; níbo ni wọ́n fi sí?
+Aṣọ púpọ̀ ló wà lọ́jà, lọ ra tì ẹ.
+Aṣọ títà ni iṣẹ́ ìya Bùkọ́lá.
+Atá ti sá paá lórí.
+Àtàrí àjànàkú ni ọ̀rọ̀ náà jẹ́, kìí ṣẹrù ọmọdé.
+Àti ìjẹrin la ti ri’ra gbẹ̀yin.
+Atọ̀ọ́lé ni ọmọ náà. [breath]
+Àwọn adájọ́ mẹ́sàn-an ni wọ́n dá ẹjọ́ náà.
+Àwọn Akẹ́kọ̀ọ́ ò ní aṣojú mó ní ilé-ẹ̀kọ́ gíga.
+Àwọn ará ìlú ní ìgbàgbọ́ pé ọ̀nà èrú ni ọba tuntun yí fi d’órí àléfà.
+Àwọn bíríkìlà ń tún ilé náà ṣe.
+Àwọn elétò ìlera ló ń se ìtójú fún àwọn aláàárẹ̀.
+Àwọn ẹlòmíì ò ní ìtẹ́lọ́rùn rárá.
+Àwọn ẹranko wo ló máa ń jẹ ọ̀gẹ̀dẹ̀?
+Àwọn èyàn ló sọ fún nípa ìyàwó rẹ̀ tó ń s’ágbèrè.
+Àwọn ìjọba ni wọ́n gbẹ́ ibi ìpọnmi náà.
+Àwọn ìjọba ti ń da ọ̀dà sí títì ìlú wa.
+Àwọn ilé alájà ńlá ńlá ló wà ní ọ̀nà ibiṣẹ́ bàbá mi.
+Àwọn iwin inú igbó ti ń jíròrò.
+Àwọn kọ́ọ̀sì yí dára gan o.
+Àwọn mìíràn ri obìrin gẹ́gẹ́ bí ẹ̀dá tó nífẹ sí ohun ọ̀fẹ́.
+Àwọn ohun amáyédẹrùn ti pọ̀ lóde.
+Àwọn olè ja ilé ìfowópamọ́ náà.
+Àwọn ọmọ náà ti bàlágà láti lọ́kọ.
+Àwọn ọmọge mẹ́fà ni wọ́n ń jó ń gbìyànjú papọ̀.
+Àwọn ọ̀rẹ́ Adéṣẹwà ó ń jowú rẹ̀ nítorí ẹni tó ń fẹ́ nísìyí ní owó púpọ̀.
+Àwọn ọ̀rẹ́ méjì ń ya àwòrán láàárọ̀ ọjọ́ náà.
+Àwọn Túnjí ti pààrọ̀ ẹ̀rọ amóhùnmáwòrán wọn.
+Aya rere l’ódèdè ọkọ ni Ṣọlá.
+Àyànmọ́ ò gbó’gun, ṣùgbọ́n ó gbọ́ àdúrà.
+'Ayé dùn-ún jẹ juùyà lọ' ni ọ̀rọ̀ tó bọ́ lẹ́nu Ṣùbòmí nígbà tó jẹ àmàlà tán.
+Ayé fẹ̀ ju òṣùpá lọ nítòótọ́.
+Àyìnlá ní Kúnlé fẹ́ràn obìnrin, ṣé ọkùnrin ni kó kwá fẹ́ràn ni?
+Àyọnusọ Fàlí ti pọ̀ jù.
+Bá mi jìṣẹ́ fún bàbá wa.
+Bàbá Adémọ́lá ti fayé sílẹ̀ láti ìgbà tí a ti wà ní ilé ìwé gíga.
+Bàbá àgbà, ṣé ẹ ti jí?
+Bàbá yẹn kìí gbọ́ràn, àfi’ìgbà tó bá súu.
+Babájídé ni adájọ́ ilé ẹjọ́ gíga tuntun tó wà ní Ìkòyí.
+Balùwẹ̀ ni mo bọ́ sí tí mo ti ń jó.
+Bàrúwá ń sa gbogbo ipá rẹ̀ láti ríi pé ohun gbogbo lọ dédé.
+Bàtà tuntun náà wọ́n jọjọ.
+Báwo ni mo ṣe fẹ́ parí iṣẹ́ yìí na?
+Báwo ni wàá ṣe máa da ilẹ̀ sí ojú àgbàrá báyìí?
+Bí babaláwo náà ṣẹ̀ gba ibẹ̀ kọjá ni.
+Bí èkùrọ́ ṣe jẹ́ alábákú ẹ̀wà bẹ́ẹ̀ ni ìfẹ mi sí o.
+Bí kò bá sí èdè kò ní sí ìtakùrọ̀sọ láàárín ọmọ ẹ̀dá ádámọ̀ méjì tàbí jù bẹ́ẹ̀ lọ.
+Bí ó tilẹ̀ jẹ́ pé n ò fẹ́ran ọmọ náà n ò rò pé ó lè pààyàn.
+Bí ọdẹ bá rò iṣẹ́ ro ìyà inú igbó, tí ó ló pa ẹran kò ní f’ẹ́ni kan jẹ.
+Bí òní ti rí ọ̀la ò lè rí bẹ́ẹ̀.
+Bí oò ti ẹ̀ jẹ́ kó hàn ní ojú ẹ, mo mọ̀ pé ohun tí wọ́n ṣe dùn ẹ́ gidi.
+Bíọ́dún kìí ṣọ́ owó náà rárá, ó lè ná gbogbo owó oṣù rẹ̀ tán ní ọjọ́ kan.
+Bó bá wu Ẹyíòwùnmí, kó má da ẹran lọ sínú igbó.
+Bọ̀dá mi yóò mú mi lọ sí ìlú òyìnbó nígbà tó bá ń padà lọ.
+Bọ́lá máa ń ṣe ìrànrán tí kò bá tètè sùn.
+Dáadáa ló yẹ ká máa ṣe.
+Dígí tí a gbé sí balùwẹ̀ ti fọ́ ní àná.
+Ẹ báwa s’àmín ẹ̀, oríi wa ò ní burú.
+Ẹ bu ẹmu díẹ̀ fún òun náà.
+Ẹ jẹ́ ká ṣeré nínú òjò.
+Ẹ jẹ́ ká sùn díẹ̀, ṣùgbọ́n oorun ò kùn mí.
+Ẹ jẹ́ kí a dá ara wa ní ara yá.
+Ẹ kú ọjọ́ ìbí ooo, ọ̀jọ̀gbọ́n Ṣóyínká.
+Ẹ má tẹ̀ẹ́wọ́ mọ́.
+Ẹ máa sọ̀dí wùkẹ̀wụ̀kẹ̀.
+Ẹ rora sáré l’ójú ọ̀nà.
+Ẹ ṣàdúà kí ikú dáwọ́ ibi rẹ̀ dúró.
+Ẹ wo ìdí ọ̀rọ̀ náà kí ẹ tó dájọ́.
+Ẹ wo omi tó sọ póun ò ní bá ẹja rẹ́, àṣé omi ọ̀hún ni yóò ṣekú pẹ́ja.
+Ẹ yí fáànù náà sókè.
+Ebi ń pa àwọn ẹlẹ́wọ̀n o.
+Ẹ̀dá kan wáyé nípasẹ̀ àwọn méjì tí wọ́n sùn papọ̀, tí wọ́n sùn ì lóyún rẹ̀.
+Èdè Gẹ̀ẹ́si ti di gbajúmọ̀ láàárín àwọn èdè àgbáyé.
+Èébì ń gbé ìyá olóyún yẹn.
+Eegún ti wọnù ẹran, ẹrán sì ti wọnú eegun.
+Eéwo mú mi lábẹ́ etí.
+Èèwọ̀ Orìṣà, ilẹ̀ ò ní ṣú mọ́ olóore. [breath]
+Ẹ̀fọ́rí ló kọ lùú.
+Ẹ̀gbọ́n mi ò sí nílé o, ẹ padà wá nírọ̀lẹ́.
+Ẹ̀gún gún ọmọ náà lẹ́sẹ̀.
+Ẹja méjì ni wọ́n fi mu gààrí.
+Ẹ̀jẹ̀ ń yọ ní etí ẹ.
+Èjì bí èjì l’àgbà ń tayò.
+Ẹkùn lè ṣe ìnàkí léṣe.
+Ẹlẹ́nu bíi ti pẹ́pẹ́yẹ ni Tàmẹ̀dùn.
+Ẹlẹ́nu bótobòto, a ó ma wírú yó ma wírù.
+Ẹ̀mí á ṣe púpọ̀ ọdún láyé.
+Èmi àti àwọn àbúrò mi la sun yàrá mọ́’jú.
+Èmi àti ẹ̀ jà kúrò ni ṣùgbọ́n a ti yanjú ọ̀rọ̀ náà báyìí.
+Èmi ni Alága Ẹgbẹ́ Kásowọ́pọ̀.
+Èmi nìkan ni mo sun yàrá mọ́’jú.
+Èní ni màmá Kọ́ládé yóò fi ilé ìwòsàn sílẹ̀.
+Ẹni orí yọ, ó d’ilé.
+Ẹni tí ò gba kádàrá yóò gba kodoro.
+Ẹnu-Ọwá ni bàbá kọ́’lé tuntun rẹ̀ sí.
+Ẹran ọ̀sìn ni àgùntàn, ewúrẹ́, òbúkọ, ẹlẹ́dẹ̀ àti màálù.
+Eré orí ìtàgé náà yo lárinrin púpọ̀.
+Ẹ̀rọ amúlétutù náà ti bàjẹ́.
+Èròjà tí a fẹ́ fi se ọbẹ̀ kò tí ì pé o.
+Ẹsẹ̀ ẹran náà ti kán.
+Ẹsẹ̀ kan ayé ẹsẹ̀ kan ọ̀run ni ó wà.
+Ẹsẹ̀ ń ro ó púpọ̀.
+Ẹ̀sin mùsùlùmí ò fàyè sílẹ̀ fún ajá jíjẹ.
+Ẹ́sítérì máa ń hùwà òmùgọ̀.
+Ẹwà rẹ pàápàá sì ṣe rẹ́gí bí ìdodo ẹ̀fọn.
+Ẹwọ̀n egbére ni a dá fun Aníní.
+Ewúrẹ́ ń jẹ koríko.
+Ẹ̀yà Yorùbá ti kúrò lẹ́gbẹ́ àwọn ẹ̀yà tí wọ́n máa ń ṣe àmúlò ìlànà òǹkà àwọn èdè mìíràn.
+Ẹyẹ méjì ló wà lórí igi ọ̀pẹ. [breath]
+Èyí já sí pé, gbogbo ìmọ̀ pátá ló ń bẹ nínú ifá.
+Fáànù mẹ́ta ló wà nínú yàrá ìgbàlejò.
+Fálétí ti lọ ra àwọn ṣòkòtò ní ọjà Èjìgbò.
+Farabalẹ̀ kí o gbóhùn wọn.
+Faransé ló gba ife ẹ̀yẹ àgbáyé bọ́ọ̀lù ní ọdùn tó kọjá. [external]
+Fìlà náà dára lórí rẹ.
+Fún mi ní ẹran àti ẹja jẹ.
+Gaàrí yẹn ti wú tó bó ṣe yẹ. [breath]
+Gàní ti mú kọ́kọ́rọ́ lọ.
+Gbà gbà gbà lọkọ̀ ń dún lóríi títì.
+Gbé kọ́ọ́pù tí ó wà ní abẹ́ ibùsùn ẹ̀gbọ́n rẹ wá.
+Gbogbo àwọn ohun tí ó ṣẹlẹ̀ nínú àwùjọ ní wọ́n lò láti fi ṣe àgbékalè eré àgbéléwò.
+Gbogbo ènìyàn ni ó ní ẹ̀tọ́ sí òmìnira.
+Gbogbo eyín Ìya Bọ̀dé ló ti yọ tán.
+Gbogbo ìgbìyànjú mi ò gbọdọ̀ já s’ásán.
+Gbogbo ohun tí mo fẹ́ ni wọ́n ṣe fún mi.
+Gbogbo rẹ̀ ṣẹ̀ hàn kedere sí mi ni.
+Gbogbo wọn ni wọ́n ń forí balẹ̀ f'Ólúwa lati àárọ̀ di alẹ́.
+Géètì ilé-ìwé ni mo ti pàdé Sìlàmíyà ní àná.
+Gìgísẹ̀ ọmọ naà ló ṣe léṣe.
+Gọ́tà náà ń rùn.
+Hósítẹ̀lì rẹ ló ti gbé oúnjẹ fún mi. [breath]
+Ilé kan wà ní Ìkòyí tí mo máa ń rí, mo fẹ́ràn ìgbékalẹ̀ rẹ̀ púpọ̀.
+Ìbọn ló bàá l’ẹ́sẹ̀.
+Ìdí Àràbà ni Ìyálọ́jà ń gbé.
+Ìdí ọkọ̀ ni mo gbé ẹrù lọ ní àná nígbà tí ọkọ̀ gbá ajá àwọn màmá.
+Ìfẹ́ náà múmi lọ́kàn, mi ò rí oorun sùn.
+Ìfọ́tí olóyì ni mo fún ọmọ tí ó wà lẹ́gbẹ ọ̀tún mi lójú àlá rẹ̀.
+Ìgbẹ́kẹ̀lé nínú Olúwa kìí yẹ̀ láéláé.
+Igbó lótun lósì, àwọn ilẹ̀ náà yóò wúlò fún ìjọba lọ́jọ́ iwájú, àbí kí lẹ rọ̀?
+Ìgéraga Gbénga ga tó bẹ́ẹ̀ jẹ́ pé kìí fẹ́ ba ẹnikéni sọ̀rọ̀.
+Igi náà rí ràbàtà.
+Ìjà náà bẹ́ sílẹ̀ nìgbà tí awakọ̀ kọ̀ láti wa ọkọ rẹ̀ kúrò lójúu pópó. [breath]
+Ìjàkùmọ̀ kìí rìn’de ọ̀sán.
+Ìjàm̀bá ọkọ̀ òfurufú tó ṣẹlẹ̀ níjọ́sí ò tíì lọ lórí àwọn ènìyàn.
+Ìjàpá gbọ́n gan nínú àwọn ìtàn Yorùbá.
+Ìjẹta ni òjó rọ̀ kẹ́yìn.
+Ìjọba àpapọ̀ ti ṣe ìgbéga fún àwọn òṣìṣẹ́ ilé-iṣẹ́ ìròyìn kan.
+Ìkejà ò jì́nà sí Ọ̀pẹ̀bí.
+Ikọ́ burúkú wo ni ò ń wú báyìí.
+Ìlà-Oòrùn Gúúsù orílẹ̀ èdè yìí ni mo ti wá.
+Ilé alájà méjì mẹ́ta, ọkọ̀ mẹ́rin, àti oko kòkó kan ni gbogbo dúkìá tí ó fi sílẹ́ lọ.
+Ilé ayé gba jẹ́jẹ́ ni bàbá máa ń sọ.
+Ilé ẹ̀kọ́ girama tó wà ní Jíbówú ni Akíntádé ti bẹ̀rẹ̀ iṣẹ́.
+Ilé epo náà tóbi, ẹ̀bá ọ̀nà ló wà.
+Ilẹ̀ náà kìí ṣe ilẹ̀ olómi, ẹ ó gbádùn rẹ̀.
+Ilé olókè mẹ́rin ni wọ́n kọ́.
+Ilé rere ni wọ́n ti wá.
+Ilé tí èmi àti àwọn akẹgbẹ́ mi dé sí rẹwà púpọ̀, [snap] ọ̀rọ̀ gan kò lè ṣàpèjúwe rẹ̀.
+Ilẹ̀ ti mọ́ bá àwọn ọ̀daràn yẹn. [external]
+Ìlẹ̀kẹ̀ mẹ́ta ló wà lọ́run Ọba.
+Ilẹ̀kùn méjì ni ó wà lọ́nà ọ̀run.
+Ilésanmí dùn ju oyè lọ.
+Ìlù Àyándélé ń ró kókó.
+Ìlú Ìlọrin ní àwon olorin dadakùádà wọ́pọ̀ sí.
+Ìmọ̀ ti fi yé wa pé Òrìṣa Ò [hesitation] gún ni àwọn alágbẹ̀dẹ.
+Ìmọ́tótó borí ààrùn mọ́lẹ̀ bí ọyẹ́ ṣe ń borí ooru.
+Ìníolúwa ti di sisí ọmọge.
+Inúu Fáṣọpẹ́ ń bí mi.
+Ipò wo lo dì mú nínú ilé iṣẹ́ náà?
+Ire ló yẹ ní ṣíṣe, ìkà kọ́.
+Ìréde òru ti àwọn ọ̀dọ́mọge ìsẹ̀yín rawọ́ lè má wàá ti peléke síi.
+Ìrèké jẹ́ èso tó dùn bíi ṣúgà.
+Ìrèti ń bẹ, bí ẹ̀mí bá ti wà.
+Ìrìn àjò yí lárinrin láìní àwọn kọ́núukọ́họ kàǹkan.
+Ìròyìn agogo mẹ́sàn-án àṣálẹ́ ni bàbá ń gbó l’ọ́wọ́.
+Ìsàlè àpótí ni màmá máa ń kó àwọn aṣọ olówó iyebíye wọn sí.
+Iṣẹ́ ajé ló s’ọmọ nù bí òkò.
+Iṣẹ́ alágbẹ̀dẹ ni bàbá mi yàn láàyò.
+Iṣẹ́ alágbẹ̀dẹ ni ó yàn láyò.
+Iṣẹ́ àmúrelé tí olùkọ́ àgbà fún wa yìí le gan o. [breath]
+Iṣẹ́ gèlè wíwé ni à ń ṣe.
+Iṣẹ́ ìjọba ni ó wù mí láti ìgbà tí mo ti wà ní kékeré.
+Ìsèkúsè ni àwọn olópàá máa ń sè fún wa.
+Ìṣẹ̀lẹ̀ náà ní agbára jọjọ, ó fẹ́rẹ̀ da àárín gbogbo ebí rú.
+Ìsọkúsọ Àmọ́dù ti pọ̀ jù.
+Iṣu àti ẹyin ni mo ṣẹ̀ṣẹ̀ jẹ tán.
+Iṣu náà ti bàjẹ́.
+Ìwádìí fi hàn pé Ò [hesitation] gún ni ẹni àkókò tí ó ṣe ọ̀rò ìṣípa òde ní ìlú Ìrè.
+Ìyá náà pàdánù ọmọ rẹ̀ láàárín ọdún kan.
+Iyá ọba náà tún wà níbẹ̀.
+Ìyá wa ṣe àkíyèsí ìwà ìmele Ọmọṣẹwà, ó sì ti pè ẹ́ lọ́pọ̀ ìgbà láti bá sọ̀rọ̀ ní ìjìnlẹ̀.
+Ìyálé mi ti ẹ̀ bá wa lálejò lọ́sè tó kọjá. [snap]
+Ìyàwó ba oko rẹ̀ nínú jẹ́.
+Ìyẹn ni pé àwọn ìlú kékèké nínú igbó yìí náà máa ń lo iná ìjọba.
+Jẹ́ ka fi bọ̀lì ṣe oúnjẹ ọ̀sán.
+Jùwọ́n ló gbà mí sílè nígbà tí wàhálà pọ̀ fún mi.
+Ká máa gbàdúrà tí a bá jí dára púpọ̀.
+Kájọlà ni ibùsọ̀ táa ma kọ́kọ́ kàn ka tó dé Káṣọpẹ́.
+Kí èdùmàrè dá èmí sí.
+Kí gbogbo ayé ó wá bá wa dá sí ọ̀rọ̀ yìí, kó tó pokúlúrúmuṣu.
+Kí ló dé tí àwọn kan ma ń bínú tí wọ́n bá̀ ṣàpèjú wọn gẹ́gẹ́ bí i ènìyàn sísanra?
+Kí ló dé ti ò kìí kan ilẹ̀kùn?
+Kí ló dé tò ń pè mí lánàá?
+Kí ló lè mú kí orí máa fọ́ ni báyìí?
+Kí ni ìṣẹ̀lẹ̀ tó ń da ọkàn rẹ rú?
+Kí ni ká fi ṣe yín l’álejò báyìí, ṣé ẹ ó jẹ àmàlà tàbí iyán ni ká gún?
+Kí Ọlóṛun mú ìgbà padà bọ̀ sí’pò.
+Kí wa ló tún kù tí ìyá Bọ̀dé ń wá káàkiri báyìí?
+Kìí ṣe awọn ọmọlóòkú nìkan ni o ti ṣe ní àǹfàní tipẹ́tipẹ́.
+Kìí ṣe gbogbo ènìyàn ló mọ ìtúmọ̀ orúkọ mi àfi àwọn tó ní ìmọ̀ tó jíire nípa orúkọ.
+Kò sí bí èèyàn kan ṣe le kàwé tó, kò lè mọ gbogbo ǹkan tán nílé ayé.
+Kò sí bí òǹkọ̀wé Yorùbá ṣe fẹ́ tẹ̀lẹ́ òfin àkọ́kọ́ gẹ́gẹ́ bí àpẹẹrẹ.[abrupt]
+Kò sí Iná lórí ẹ̀rọ ìbánisọ̀rọ̀ mi. [external]
+Kò yé mi o, ṣé Oshòdì lo wà?
+Kókó àti àkàrà la fẹ́ jẹ lónìí.
+Kòkòrò àárùn tí kò gbóògun ti pọ̀ ní ìlú yìí.
+Kọ́kọ́rọ́ mọ́tò bàba Fáuśa ni àwọn ọmọ yíì fi ń ṣeré.
+Kọ́lá ti fi ẹsẹ̀ gún ìṣó.
+Láfún loúnjẹ wọn nílé Àl̀àkẹ́.
+Lára àwọn agbẹjọ́rò àgbà ni Fálànà wà.
+Lára àwọn olùkọ́ tí mo ò le gbàbé ni ọmọ̀wé Shèyí Kenny.
+Lára ẹbí tó gbajúmọ̀ ní ìlú Ìlọrin ni Sàràkí.
+Lára ibi tí a dé ni ọ̀dọ̀ Aláàfin ìlú Ọ̀yọ́.
+Lára orúkọ tó gbajúmọ̀ ni Tinúbu ń jẹ́. [abrupt]
+Láti ibo ni oko bàbá wọn ti bẹ̀rẹ̀? [external]
+Láti ìlú Àjàṣẹ́ ni màmá ti wá.
+Lọ fi otí pa ìrònú rẹ́. [external]
+Lọ mú àtòrì wá l’ẹ́yìn ilẹ̀kùn.
+Lọ ra èlùbọ́ wa lọ́dọ Ìya Mọ́ríá.
+Lọ se ewédú ka lè fi jẹ àmàlà ní alẹ́.
+Lọ tẹ́ ibùsùn bàbá. [breath]
+Màá ṣe iṣẹ́ náà nítorí ó dá lé orí àwọn ìwée Fágúnwà.
+Màmá àgbà sọ fún Lájídé pé kó lọ gba àródan wá.
+Màmá rán mi kí n lọ ra ẹja díndín wá ní ìsọdá.
+Mẹ́ta ni àwọn òṣèrè Ìjẹ̀ṣa tó ń gbé ilú yìí.
+Mi ò fẹ́ kí ọ̀rọ̀ mí máa dàmú ẹ.
+Mi ò nífẹ sí gbogbo ìkan wọ̀nyí.
+Mo bẹ̀rù olóńgbò púpọ̀.
+Mo fẹ́ kúrò ní gbogbo sàkánì tí wọ́n ti mọ̀ mí rí.
+Mo fẹ́ lọ gba atẹ́gùn ní’ta.
+Mo fẹ́ lọ rí ọ̀rẹ́ mi kan ní ẹ̀yìn odi.
+Mo fẹ́ràn àwọn ọ̀rẹ́ mi.
+Mọ fẹ́ràn ẹlẹ́dẹ̀.
+Mo fẹ́ran ilé ìtura náà. [external]
+Mo gbà fún ọ̀gá mi [breath] , àlá rere ni wọ́n ní.
+Mo gba ìpè oríireè kan láti ìlú òyìnbó.
+Mo kí wọn pé a kú ojúmọ́.
+Mo máa gbìyànjú láti ríi dájú pé o jìyà ẹ̀sẹ̀ rẹ.
+Mò ń jáde lọ sí ibi iṣẹ́ láti lọ gba owó oṣù.
+Mò ń ṣe iṣẹ́ mi dáadáa.
+Mo ní ìgbáfẹ́ ní agogo mẹ́san alẹ́.
+Mo ní’fẹ láti bá wọn lọ fún ìnáwó náà.
+Mo nífẹ sí àwọn orin Lágbájá.
+Mo nífẹ̀ẹ́ àwọn mọ̀lẹ́bí mi púpọ̀.
+Mo nífẹ̀ẹ́ ẹyin ojú rẹ̀.
+Mo ò dára nínú eré bọ́ọ̀lù gbígbá.
+Mo ò lọ sí ibìkankan pẹ̀lú ẹ.
+Mo ṣàkíyèsí wípé ọmọ náà ní ìgbéraga.
+Mo ti fi àtẹ̀jíṣẹ́ ránṣẹ́ sí alága lórí ọ̀rọ̀ owó orí tí a fẹ́ san.
+Mo ti fi ìgbà kan ṣiṣẹ́ gẹ́gẹ́ bí olùkọ́ ìmọ̀ ẹ̀rọ.
+Mo ti gbé omi sí ẹ̀yìn ilẹ̀kùn.
+Mo ti gbìyànjú ohun tí mo lè dá lárà.
+Mo ti rí àwọn àbúrò mi á ti tó ọdún márùn-ún.
+Mo ti rí ìdí tí kò fi yẹ kí ó jẹ́ ọ̀rẹ́ mi ni.
+Mo wá ṣe bí àdán orí igi tó so ara rẹ̀ rọ̀ bí ẹni tó ń tòògbé.
+Mo ya ìwé náà sí méjì nítorí inú bí mi gidigidi.
+Ní ayé àtijọ́, àwọn bàbá ni wọ́n máa ń sába ṣiṣẹ́.
+Ní ilẹ̀ Yorùbá, bàbá ni olórí ilé.
+Ní ìrìn-àjò tí mo lọ, mo rí odò kan tí à ń ́pè ní odò aláró. [snap]
+Ní ọjà Èjìgbòmẹkùn ni a ti ra àwọn èso ọ̀hún.
+Nígbà mìíràn, tí ìfẹ́ bá pọ̀jù, kò dára.
+Nígbà tí a wà ní kékeré ìya Lábísí máa ń na ẹni tó bá súfe nínú ilé. [external]
+Nígbà tí bàbá lọ sí oko ní ijọ́ kan ló rí ọmọ ìkókó náà ní abẹ́ igi ọsàn.
+Nígbà tí ó di ọjọ́ keje, ilẹ̀ ṣú.
+Nígbà tí ọmọ yìí dàgbà, ó tọ́jú ilé àti ọgbà.
+Nígbà wo lò ń padà lọ sí ìlú yín náà? [breath]
+Níkẹ gbé omi sí Àdèyí lẹ́nu.
+Nínú ọkọ̀ táa wọ̀ lọ s’Ọ́yọ̀ ọ́, èmi Adéyọọ́lá laá jọ jókòó.
+Ó bi bàbá rẹ̀ bí òún bá lè tan ẹ̀rọ amóhùnmáwòrán náà.
+Ó dà bí ẹni pé ó ti rẹ olùkọ́ọ wa.
+Ó dá mi lójú pé mo mọ iṣẹ́ náà ṣe.
+Ó f’ọwọ́ lérán ó ń wò’ṣe olúwa.
+Ó fẹ́ dì mọ́ọ lát’ẹ̀yìn.
+Ó ja ọbẹ̀ sí aṣọ. [external]
+Ó le kú, ìjà ọ̀rẹ́.
+Ó pọn dandan láti rán wa létí pé Káàárọ̀ Oò Jíire ni wá. [snap]
+Ó rò pé màá fi orí lé ọ̀nà ìlà-ọ̀run padà lọsí ilé lọ sùn fún ọjọ́ díẹ̀.
+Ó ṣẹ̀ rí’ṣẹ́ mìíràn ni.
+O ṣé tóo wá sí ’lé mi lónìí.
+Ó ṣèṣì kọ iye owó tó ju iyé tí ó ná lọ.
+Ó sì tún jẹ ẹ̀bùn pàtàkì láti ọ̀dọ̀ Olódùmarè.
+Ó ti sá lọ, ọ̀rọ̀ náà kọjá ohun tí agbára rẹ ká.
+Ó ti y’óhùn padà.
+Ó yí omi dà sínú ike mìíràn.
+Ọba òyìnbó kìí dé Adé rẹ̀ ní gbogbo ìgbà rárá.
+Ọbá ti gbẹ́sẹ̀ lé ìyàwó Moróunfólú.
+Ọbabìrin Ilẹ̀ Gẹ̀ẹ́sì ti pẹ́ lórí oyè gan ò.
+Ọdẹ àdẹ́dọ̀ ni Ọdẹ́wálé jẹ́ nígbà èwe rẹ̀.
+Òde méjì ni a ní láti dé.
+Odidi oṣù mẹ́ta ni àwọn ará ilé wa yóò fi gba ìsimi lọ sí òkè òkun.
+Òfin ìjọba ò jẹ́ kí àwọn oníṣòwò jèrè rárá.
+Ọ̀gá akọrin wa féraǹ mi gidi.
+Ọ̀gá ọlọ́pàá náà ló gba owó àbẹ̀tẹ́lẹ̀.
+Ọ̀gẹ̀dẹ̀ inú ọgbà bàbá dùn púpọ̀.
+Ogun jà ní ìlú náà fún ọdún méje.
+Ogun ni ìlú yìí wà ní òní bó tilẹ̀ jẹ́ pé wọ́n máa ń fẹ́ kí gbogbo ayé rò pé àlááfíà ni.
+Ògúndípẹ̀ ni ọ̀gá wa.
+Ògúntádé ni ó gba ìwé náà wọlé.
+Ohun tó ṣemí ní kàyéfi ni bí àwọn gẹ̀lẹ̀dẹ́ ṣe máa ń ní ìdí ńlá.
+Òjó lọ ilé ní àná láti lọ mú owó ẹ̀ wá.
+Ojọ́ mẹ́wa ni ó kù kí a kásẹ̀ gbogbo ètò nílẹ̀.
+Ọ̀jọ̀gbọ́n lọmọ náà.
+Ojú abẹ́rẹ́ náà ṣì ń dùn-ún.
+Ojú ò ní tìyín lágbára ọlọ́run.
+Ojú Ọlọ́bùn ni ilé ìjọsìn àwọn Tósìn wà.
+Ojú rẹ̀ funfun, ó dà bí ẹni tí ara ẹ̀ kò yá.
+Ojúṣe àwọn olùkọ́ ni láti ríi dájú pé àwọn ọmọ tí wọn kọ́ ní òye kíkún nípa iṣẹ́ ohùn.
+Ọkàn mí wúwo púpọ̀. [external]
+Òkè ni ẹyẹ ti máa ń fò.
+Òkèfúnwa ti pinu láti ríi pé gbogbo ohun tí a nílò la máa rí gbà.
+Ọkọ̀ ayọ́kẹ́lẹ́ náà rẹwà púpọ̀.
+Ọkọ̀ ni bàba tóo lè bá sọ̀rọ̀ ní Surulere.
+Ọkùnrin ni adarí ìjọ náà.
+Ọládèjọ kú ikú akin.
+Ọlárótìmí fẹ́ràn ṣẹ̀kẹ̀rẹ̀, ohun èlò tí ó fẹ́ràn láti máa lù nìyẹn.
+Ọlọ́kadà ló gbá ọmọ wọn.
+Olórí ilé aṣòfin wà ní agbègbè náà.
+Olúmòye sọ pe ìgbà tí òun bí ọkùnrin ni inú òun dùn jù.
+Olùṣọ́gbà ni iṣẹ́ tí mo bá ẹ rí.
+Olúwa ọba o ṣé o, mo rí isó só bẹ́ẹ̀ ni mo rí ìtọ̀ tọ̀.
+Olúwa, màá ṣe ìgbọràn. Àánú ni mo tọrọ.
+Omi adágún kan wà ní ẹ̀yìn ilé-ìwé mi.
+Ọmọ bùjẹbùdànù l’Àrẹ̀mú.
+Ọmọ dada ni mí látijọ́.
+Ọmọ iṣẹ́ méjì ló wà ní ibi iṣẹ́ yin.
+Ọmọ méjì ni Simi sọ pé òun fé bí.
+Ọmọ mẹ́rin ni ẹran náà bí.
+Ọmọ náà gbé orí mi sí àyà rẹ.
+Ọmọ ọ̀lẹ ò ṣeé yá ní tọ́rọ́.
+Ọmọ rere ni ẹ́, àbí bẹ́ẹ̀ kọ́?
+Ọmọ yẹn ò lẹ́kọ̀ọ́.
+Ọmọ yìí fẹ́ fi ijó ṣe mí léṣe.
+Ọmọ yìí ò ní àpọ́nlé kankan rárá.
+Ọmọbìrin náà rẹwà púpọ̀, tẹ̀gàn ló kù.
+Ọmọkọ́mọ ni Dèjì.
+Ọ̀mọ̀wé fún ọmọ náà ní ẹ̀bun rẹpẹtẹ.
+Onígèlè yayaya ni màmá yẹn.
+Òpẹ́bí ni àwọn ọ̀rẹ́ rẹ̀ ti lọ ń ṣeré.
+Ọ̀pọ̀ akẹ́kọ̀ọ́ ní ilé ìwé náà ló mọ̀wé.
+Ọ̀pọ̀ ni ohun tí ó wà nípa ẹyẹ lékeléke tí a ò mọ̀.
+Ọ̀pọ̀lọpọ̀ ọmọ ni wọ́n ma ń bá ìyá wọn rẹ́ ṣùgbọ́n báyi kọ́ lọ̀rọ̀ rí fún Jayé.
+Orí odó lo jókòó lé.
+Orí páànù ilé àwọn Ajírébi ni adìẹ náà fò sí.
+Òrìṣà, bó ò le gbèmí ṣe mí bó o ti bámi.
+Oríṣi bàtà kan ni àwọn ọmọ ìyá náà rà.
+Oríṣi bàtà méje ni màmá mi ńi. [external]
+Orísìírísìí ìgbésẹ̀ la máa ń gbé lórí ọ̀rọ̀ yìí.
+Orísìírísìí ìgbésẹ̀ ni ó máa ń jẹyọ nínú Ọdún Ifá.
+Ọ̀rọ̀ kátikàti wo lò ń sọ gan ná.
+Ọ̀rọ̀ máa jáde lóru òní.
+Orógbó náà gbó keke.
+Orúkọ fífúnni kìí ṣe ohun yẹpẹrẹ, bẹ́ẹ̀ kì í ṣe bàbàrà tó bẹ́ẹ̀.
+Ọ̀rúnmìlà nìkan ló gbọ́ ohùn ẹnu Olódùmarè yékéyéke.
+Ọ̀rúnmìlà sọ fún Ògún pé Ìrémọjẹ ni a ó máa pe orúkọ orin arò yìí.
+Ọ̀sán kan ṣoṣo ni ìṣẹ̀lẹ̀ yí ṣẹlẹ̀.
+Ọtí ẹlérìn dòdò ni wọ́n fi ṣe mí lálejò ní’bi òde ìyàwó tí mo lọ.
+Òun àti ìyekan rẹ̀ ni wọ́n ń pariwo l’óru.
+Òun ló tọ́ sí láti máa sọ̀rọ̀.
+Òwe lẹ ó máa pa, ẹ ò ní pà’nìyàn. [external]
+Ọwọ́ méjì ni wọ́n kó sí inú ẹ̀.
+Òwú dúdú lowó iná.
+Oyè Balógun ni idílé náà máa ń jẹ láti ìgbà yìí wá.
+Ra àgbálùmọ́ fún mi tí o bá ń bọ̀.
+Sàfúrátù ti gbé obì wá fún bàbá.
+Sáyídì ń ta Láfún ní agbègbè Ìta Àdó.
+Ṣé àwọn ọmọ yín mọ òòṣà tí wọ́n ń pè ní ìgunnu?
+Ṣé bí à ṣe dúdú náà ni ọpọlọ wa ṣe dúdú ni?
+Ṣé dáadáa lo wá lásìkò yìí.
+Ṣé ẹ ní dòdò àti ẹran?
+Ṣé ẹranko ni ikún ni?
+Ṣé kí a fún àwọn agbasọfọ̀?
+Ṣé ki n wá gba kiníyẹn ni?
+Ṣé mo jọ òmùgọ̀ ni?
+Ṣé o fẹ́ràn aṣọ tí ẹ̀gbọ́n rẹ fi ránṣẹ́ láti òkè òkun? [external]
+Ṣé o lè rìn kíá ju báyi lọ?
+Ṣé o máa ń mutí?
+Ṣé o mọ ìdí tí mo fi sọ bẹ́ ẹ̀?
+Ṣé o ti gbọ́ nípa ọdún òkè ìtàsẹ́ rí?
+Ṣé o ti rí ilé kòkó ní Ìbàdàn rí?
+Ṣé o ti ṣe iṣẹ́ àmúrelé rẹ?
+Ṣé o ti tọrọ àforíjì?
+Ṣé wàá jẹ́ bàbá àwọn ọmọ mi?
+Sọ ọ̀rọ̀ òṣèlú tàbí ìwà ìbàjẹ́ nínú àwùjọ.
+Ṣòkòto Ọláànipẹ̀kún ò balẹ̀.
+Ṣọ̀pọ̀ná ò ní mọ ‘lé wa o. Àmin.
+Súnkẹrẹ-fàkẹrẹ ọkọ̀ pọ̀ ní ọ̀nà Ìkòròdú.
+Sùúrùlérè ni ibi tí a ó ti ṣe ìpàdé ọ̀sẹ̀ tó n bọ̀.
+Ta ló gbé aṣọ tútù sí ibí?
+Ta ló ń dìtẹ̀ mọ́ Ọba wa Aláàfin.
+Ta ló wà nínú ọgbà náà?
+Ta ló wà nínú ọjà náà?
+Tájù àti Tọ́lá ń lọ sí Àkúrẹ́ ní ọ̀la.
+Ti ilẹ̀kùn kí o bá mi ní ojú ọ̀nà.
+Tí kò bá kí ń ṣe ọ̀làjú tí ó ti gbinlẹ̀ l’Ékò ni, àwọn ìlú oko gán wà pa. [abrupt]
+Tí o bá rí ọkùnrin tí ó ń bá ẹ gbọ́ bùkátà díẹ̀, o jẹ́ má jẹ kó lọ mọ́ ẹ l’ọ́wọ́.
+Títà ni akekèé máa ń tani.
+Tolúwa ni ilẹ̀ àti ẹ̀kún rẹ̀.
+Tùràrí olóòórùn dídùn ni wọ́n fi sí ibi ìtẹ́ òkú.
+Túwó ni wọ́n sè fún wa.
+Wàhálà ọmọ yìí ò ní ṣ'ekú pa ẹ́ lórúkọ Jésù.
+Wàhálà tí àwọn ènìyàn ṣe láti lè jẹ́ ènìyàn láyé kìí ṣe kèrémí o.
+Wàyí o, kí a máa rántí pé gbogbo ohun táa bá ṣe la ma ká nikẹhìn.
+Wọ́n kì ń fọnu fún ọmo ̣ìkókó.
+Wọ́n máa gun Àràfá ní ọ̀la.
+Wọ́n máa ń lo orin dadakùádà lati fi ki oríkì ènìyàn.
+Wọ́n n bá ara wọn sọ̀rọ̀ lówelówe.
+Wọ́n ń fá irun ara òkú náà.
+Wọ́n na Fadérẹra ní ilé ìwé ọjọ ìsinmi.
+Wọ́n ní kí a mú àkòrí iṣẹ́ ìwádi àṣekágbá wa wá.
+Wọ́n pa Olúwa wa, ó sì jíǹde. [abrupt]
+Wọ́n rí àjẹ́ kan l’ọ́san gangan n’íbàdàn.
+Wọ́n rí ọmọ tuntun kan lórí ààtàn.
+Wọ́n sá eré àsápájúdé.
+Wọ́n ṣe gẹ́gẹ́ bí Ifá ṣe wí.
+Wọ́n ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní kọ́ ilé òhún ni.
+Wọ́n ti da ìdọ̀tí sọ́nà lẹ́ẹ̀kansíi.
+Wọ́n ti dée ládé ọba.
+Wọ́n ti fi jọba Ìlú Alábà.
+Wọ́n ti gbé iṣẹ́ mìíràn fún mi.
+Wọ́n ti gbée lọ sí Ibojì.
+Wọ́n ti lé àwọn ẹbí Ayọ̀bámi kúrò ní agboolé.
+Wọ́n ti lọ fọ’bọ́ níta.

@@ -29,7 +29,7 @@ Recordings.init(
       },
 
       status: {
-          type: DataTypes.UUID,
+          type: DataTypes.STRING,
           allowNull: true,
       },
   },
