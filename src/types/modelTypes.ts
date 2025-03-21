@@ -10,6 +10,8 @@ export interface UserAttributes {
     password: string;
     role: Roles;
     refreshToken: string;
+    gender: Gender;
+    ageGroup: AgeGroup;
 }
 
 
@@ -29,7 +31,18 @@ export interface RecordingAttributes {
 
 export enum Roles {
     User = "User",
-    Admin = "Host",
+    Admin = "Admin",
     SuperAdmin = "SuperAdmin",
+}
+
+export enum Gender {
+    Male = "male",
+    Female = "female",
+}
+
+export enum AgeGroup {
+    Child = "child",
+    Teenager = "teenager",
+    Adult = "adult"
 }
 

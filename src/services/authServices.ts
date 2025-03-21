@@ -8,7 +8,7 @@ import generalHelpers from "../helpers/generalHelpers";
 const userRegister = errorUtilities.withErrorHandling(
   async (userPayload: Record<string, any>): Promise<Record<string, any>> => {
 
-    let { email, password, firstName, lastName, phone } = userPayload;
+    let { email, password, firstName, lastName, phone, gender, ageGroup } = userPayload;
 
     email = email.trim();
 
@@ -37,6 +37,8 @@ const userRegister = errorUtilities.withErrorHandling(
       lastName,
       phone,
       role: Roles.User,
+      gender,
+      ageGroup
     };
 
     const newUser = await userRepository.userRepositories.create(
@@ -98,7 +100,7 @@ const userLogin = errorUtilities.withErrorHandling(
       role: existingUser.role,
     };
 
-    const accessToken = await generalHelpers.generateTokens(tokenPayload, "2h");
+    const accessToken = await generalHelpers.generateTokens(tokenPayload, "30d");
     const refreshToken = await generalHelpers.generateTokens(
       tokenPayload,
       "30d"

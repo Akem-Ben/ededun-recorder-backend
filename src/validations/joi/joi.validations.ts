@@ -46,6 +46,14 @@ const userRegisterSchemaViaEmail = Joi.object({
 
   phoneNumber: Joi.string().trim().required().messages({
     'string.base': 'Phone Number is required',
+  }),
+
+  gender: Joi.string().trim().required().messages({
+    'string.base': 'Gender is required',
+  }),
+
+  ageGroup: Joi.string().trim().required().messages({
+    'string.base': 'Please select your appropriate age group',
   })
 
 });

@@ -2,7 +2,9 @@ import { DataTypes, Model } from "sequelize";
 import { database } from "../../configurations/database";
 import {
   UserAttributes,
-  Roles
+  Roles,
+  Gender,
+  AgeGroup
 } from "../../types/modelTypes";
 
 export class User extends Model<UserAttributes> {}
@@ -45,6 +47,16 @@ User.init(
       validate: {
         isIn: [Object.values(Roles)],
       },
+    },
+
+    gender: {
+      type: DataTypes.ENUM(...Object.values(Gender)),
+      allowNull: false,
+    },
+
+    ageGroup: {
+      type: DataTypes.ENUM(...Object.values(AgeGroup)),
+      allowNull: false,
     },
 
     password: {
