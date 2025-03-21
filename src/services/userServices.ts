@@ -84,7 +84,9 @@ const getAllMyRecordings = errorUtilities.withErrorHandling(
                 phrase: phrase ? {
                     id: phrase.id,
                     english_text: phrase.english_text,
-                    yoruba_text: phrase.yoruba_text
+                    yoruba_text: phrase.yoruba_text,
+                    pronounciation_note: phrase.pronounciation_note,
+                    phrase_category: phrase.phrase_category
                 } : null
             };
         }));
@@ -140,7 +142,9 @@ const getAllMyUnrecordedPhrases = errorUtilities.withErrorHandling(
         const responseData = unrecordedPhrases.map((phrase: Record<string, any>) => ({
             id: phrase.id,
             english_text: phrase.english_text,
-            yoruba_text: phrase.yoruba_text
+            yoruba_text: phrase.yoruba_text,
+            pronounciation_note: phrase.pronounciation_note,
+            phrase_category: phrase.phrase_category
         }));
 
         const itemsPerPage = 10;

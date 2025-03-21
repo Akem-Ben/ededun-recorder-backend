@@ -143,17 +143,17 @@ const addManyPhrases = errorUtilities.withErrorHandling(
         const createdPhrases = [];
         
         for (const phrasePayload of phraseArray) {
-            let { yoruba_text } = phrasePayload;
+            let { yoruba_text, english_text, pronounciation_note, phrase_category } = phrasePayload;
 
-            // const existingEnglishPhrase = await phraseRepository.phrasesRepository.getOne({ english_text });
+            const existingEnglishPhrase = await phraseRepository.phrasesRepository.getOne({ english_text });
             const existingYorubaPhrase = await phraseRepository.phrasesRepository.getOne({ yoruba_text });
 
-            // if (existingEnglishPhrase || existingYorubaPhrase) {
-            //     continue;
-            // }
+            if (existingEnglishPhrase || existingYorubaPhrase) {
+                continue;
+            }
 
             const phraseId = v4();
-            const phraseCreationPayload = { id: phraseId, yoruba_text };
+            const phraseCreationPayload = { id: phraseId, yoruba_text, english_text, pronounciation_note, phrase_category };
             const newPhrase = await phraseRepository.phrasesRepository.create(phraseCreationPayload);
             
             if (newPhrase) {
