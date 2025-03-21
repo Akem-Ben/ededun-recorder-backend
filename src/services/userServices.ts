@@ -112,11 +112,7 @@ const getAllMyUnrecordedPhrases = errorUtilities.withErrorHandling(
 
         const recordedPhrases: any[] = await recordingRepository.recordingRepository.getMany({ user_id: userId });
 
-        console.log('recorded',recordedPhrases)
-
         const recordedPhraseIds = recordedPhrases.map(record => record.phrase_id);
-
-        console.log('recorded2',recordedPhraseIds)
 
         let unrecordedPhrases;
 
