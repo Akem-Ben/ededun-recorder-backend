@@ -67,7 +67,7 @@ const getAllMyRecordings = errorUtilities.withErrorHandling(
     async (userId: string, page: number = 1): Promise<Record<string, any>> => {
         const recordedPhrases: any[] = await recordingRepository.recordingRepository.getMany({ user_id: userId });
 
-        if (!recordedPhrases || recordedPhrases.length === 0) {
+        if (!recordedPhrases) {
             throw errorUtilities.createError(
                 'No recorded phrases found',
                 400
@@ -168,12 +168,12 @@ const getAllMyUnrecordedPhrases = errorUtilities.withErrorHandling(
 const deleteMyRecordings = errorUtilities.withErrorHandling(
     async (recordingId: string): Promise<Record<string, any>> => {
 
-        const deleteRecording = await recordingRepository.recordingRepository.getOne({ id: recordingId })
+        const deleteRecording = await recordingRepository.recordingRepository.deleteOne({ id: recordingId })
 
 
         if (!deleteRecording) {
             throw errorUtilities.createError(
-                'Unable to delete recordinng, please contact admin',
+                'Unable to delete recording, please contact admin',
                 400
             );
         }
