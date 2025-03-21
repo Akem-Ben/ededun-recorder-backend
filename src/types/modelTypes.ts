@@ -19,6 +19,19 @@ export interface PhraseAttributes {
     id: string;
     english_text: string;
     yoruba_text: string;
+    pronounciation_note: string;
+    phrase_category: PhraseCategory
+}
+
+export enum PhraseCategory {
+    Body_Part = "Body Part",
+    Word = "Word",
+    Counting_Number = "Counting Number",
+    Day_Of_The_Week = "Day of the Week",
+    Relationship = "Relationship",
+    Phrase = "Phrase",
+    Sentence = "Sentence",
+    Other = "Other"
 }
 
 export interface RecordingAttributes {

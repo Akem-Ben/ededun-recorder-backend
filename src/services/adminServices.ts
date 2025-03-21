@@ -6,22 +6,22 @@ import { v4 } from 'uuid';
 const addPhrase = errorUtilities.withErrorHandling(
     async (phrasePayload: Record<string, any>): Promise<Record<string, any>> => {
 
-        let { yoruba_text } = phrasePayload;
+        let { yoruba_text, english_text, pronounciation_note, phrase_category } = phrasePayload;
 
-        // const existingEnglishPhrase = (await phraseRepository.phrasesRepository.getOne({
-        //     english_text,
-        // })) as unknown as PhraseAttributes;
+        const existingEnglishPhrase = (await phraseRepository.phrasesRepository.getOne({
+            english_text,
+        })) as unknown as PhraseAttributes;
 
         const existingYorubaPhrase = (await phraseRepository.phrasesRepository.getOne({
             yoruba_text,
         })) as unknown as PhraseAttributes;
 
-        // if (existingEnglishPhrase) {
-        //     throw errorUtilities.createError(
-        //         'English phrase already exists',
-        //         400
-        //     );
-        // }
+        if (existingEnglishPhrase) {
+            throw errorUtilities.createError(
+                'English phrase already exists',
+                400
+            );
+        }
 
         if (existingYorubaPhrase) {
             throw errorUtilities.createError(
@@ -34,7 +34,9 @@ const addPhrase = errorUtilities.withErrorHandling(
 
         const phraseCreationPayload = {
             id: phraseId,
-            // english_text,
+            english_text, 
+            pronounciation_note, 
+            phrase_category,
             yoruba_text,
         };
 
