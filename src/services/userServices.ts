@@ -25,7 +25,7 @@ const addRecording = errorUtilities.withErrorHandling(
             );
         }
 
-        const existingRecording = await recordingRepository.recordingRepository.getOne({ phrase_id: phraseId })
+        const existingRecording = await recordingRepository.recordingRepository.getOne({ phrase_id: phraseId, user_id: userId });
 
         if (existingRecording) {
             throw errorUtilities.createError(
