@@ -56,11 +56,15 @@ const userRegister = errorUtilities.withErrorHandling(
       id: userId,
     });
 
-    await mailUtilities.sendMail(
-      email,
-      'Welcome to Èdèdún AI Powered Yorùbá Platform! We look forward to your valuable contribution',
-      'Welcome to Èdèdún APYP'
-    );
+    try{
+      await mailUtilities.sendMail(
+        email,
+        'Welcome to Èdèdún AI Powered Yorùbá Platform! We look forward to your valuable contribution',
+        'Welcome to Èdèdún APYP'
+      );
+    }catch(error:any){
+      console.error(`Error: ${error}`)
+    }
 
     return responseUtilities.handleServicesResponse(201, "User created successfully, welcome to Èdèdún AI Powered Yorùbá Platform!", user);
   }
@@ -127,12 +131,12 @@ const userLogin = errorUtilities.withErrorHandling(
 
     const userWithoutPassword = await userRepository.userRepositories.extractUserDetails(newExistingUser)
 
-    // try{
-    //   await mailUtilities.sendMail(existingUser.email, mailMessage, mailSubject);
-    // }catch(error:any){
-    //   console.error(`Error: ${error
-    //   }`)
-    // }
+    try{
+      await mailUtilities.sendMail(existingUser.email, mailMessage, mailSubject);
+    }catch(error:any){
+      console.error(`Error: ${error
+      }`)
+    }
 
 
     return responseUtilities.handleServicesResponse(200, 'Login Successful, Welcome Back', { user: userWithoutPassword, accessToken, refreshToken });

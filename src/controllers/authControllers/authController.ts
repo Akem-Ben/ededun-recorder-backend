@@ -8,8 +8,6 @@ const userRegister = async (
   request: Request,
   response: Response
 ): Promise<any> => {
-
-  console.log('hey', request.body)
   
   const newUser: any = await authServices.userRegister(
     request.body
