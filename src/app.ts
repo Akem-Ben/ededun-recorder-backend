@@ -11,6 +11,7 @@ import { createServer } from "http";
 import { errorUtilities } from './utilities';
 import { HttpError } from "http-errors";
 import { database, } from './configurations/database';
+import config from "./configurations/config";
 // import './models/associations';
 
 const app = express();
@@ -44,7 +45,7 @@ app.use(cookieParser());
 database
   .sync({})
   .then(() => {
-    console.log("Database is connected");
+    console.log(`${config.stage} database is connected`);
   })
   .catch((err: HttpError) => {
     console.log("No connection:", err);
@@ -64,12 +65,11 @@ app.get("/", (request: Request, response: Response) => {
 // Error handler
 app.use(errorUtilities.globalErrorHandler);
 
-
 /**
  * Server
  */
-server.listen(process.env.PORT, () => {
-  console.log(`server running on Port ${process.env.PORT}`);
+server.listen(config.PORT, () => {
+  console.log(`server running on Port ${config.PORT}`);
 });
 
 export default app;

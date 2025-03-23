@@ -7,8 +7,8 @@
     "compile": "tsc",
     "test": "cross-env NODE_ENV=development --max-old-space-size=4096 jest -i --colors --verbose --detectOpenHandles --coverage --forceExit --testTimeout=500000 __tests__",
     "test:watch": "cross-env NODE_ENV=development jest --watch",
-    "dev": "nodemon",
-    "start": "node build/app.js"
+    "dev": "cross-env NODE_ENV=development nodemon",
+    "start": "cross-env NODE_ENV=production node build/app.js"
   },
   "repository": {
     "type": "git",
@@ -32,6 +32,7 @@
     "cors": "^2.8.5",
     "cron": "^4.1.0",
     "cross-env": "^7.0.3",
+    "csv-parser": "^3.2.0",
     "dayjs": "^1.11.13",
     "dotenv": "^16.4.7",
     "eslint": "^9.22.0",
@@ -52,6 +53,7 @@
     "typescript": "^5.8.2",
     "uuid": "^11.1.0",
     "validator": "^13.12.0",
+    "xlsx": "^0.18.5",
     "xss-clean": "^0.1.4"
   },
   "devDependencies": {

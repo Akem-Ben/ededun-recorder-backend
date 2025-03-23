@@ -24,7 +24,7 @@ Phrases.init(
       allowNull: true,
     },
     pronounciation_note:{
-      type: DataTypes.TEXT,
+      type: DataTypes.STRING,
       allowNull: true,
     },
     phrase_category: {

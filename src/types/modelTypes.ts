@@ -27,10 +27,12 @@ export enum PhraseCategory {
     Body_Part = "Body Part",
     Word = "Word",
     Counting_Number = "Counting Number",
-    Day_Of_The_Week = "Day of the Week",
+    Days_Of_The_Week = "Days of the Week",
     Relationship = "Relationship",
     Phrase = "Phrase",
     Sentence = "Sentence",
+    Color = "Color",
+    Question = "Question",
     Other = "Other"
 }
 

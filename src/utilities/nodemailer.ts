@@ -1,14 +1,17 @@
 import nodemailer from "nodemailer";
-import { GMAIL_USER, GMAIL_PASSWORD } from '../configurations/envKeys';
+import { SMTP_USER_NAME, SMTP_PASSWORD } from '../configurations/envKeys';
 
 const transport = nodemailer.createTransport({
-  service: "gmail",
+  host: 'smtp.office365.com',
+  port: 587,
+  secure: false,
   auth: {
-    user: `${GMAIL_USER}`,
-    pass: `${GMAIL_PASSWORD}`,
+    user: `${SMTP_USER_NAME}`,
+    pass: `${SMTP_PASSWORD}`,
   },
   tls: {
     rejectUnauthorized: false,
+    ciphers: 'SSLv3',
   },
 });
 

@@ -1,2 +1,7 @@
 node_modules
 build
+Yoruba_Dataset.xlsx
+yoruba-translator.js
+output.json
+
+.env

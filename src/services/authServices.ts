@@ -127,7 +127,13 @@ const userLogin = errorUtilities.withErrorHandling(
 
     const userWithoutPassword = await userRepository.userRepositories.extractUserDetails(newExistingUser)
 
-    await mailUtilities.sendMail(existingUser.email, mailMessage, mailSubject);
+    // try{
+    //   await mailUtilities.sendMail(existingUser.email, mailMessage, mailSubject);
+    // }catch(error:any){
+    //   console.error(`Error: ${error
+    //   }`)
+    // }
+
 
     return responseUtilities.handleServicesResponse(200, 'Login Successful, Welcome Back', { user: userWithoutPassword, accessToken, refreshToken });
   }

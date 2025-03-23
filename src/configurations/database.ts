@@ -1,10 +1,15 @@
 import {Sequelize} from 'sequelize';
-import dotenv from 'dotenv';
 
-dotenv.config()
+const stage: any = process.env.NODE_ENV;
+let NEON
 
+if(stage === "development"){
+    NEON = process.env.DEV_DB
+}else if(stage === "production"){
+    NEON = process.env.PROD_DB
+}
 
-export const database = new Sequelize(`${process.env.NEON}`,
+export const database = new Sequelize(`${NEON}`,
     {
         pool: {
           max: 5,

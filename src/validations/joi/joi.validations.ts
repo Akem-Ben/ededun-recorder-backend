@@ -71,9 +71,9 @@ const createPhraseSchema = Joi.object({
   english_text: Joi.string().trim().required().messages({
     "string.base": "The English Phrase is required",
   }),
-  pronounciation_note: Joi.string().trim().required().messages({
-    "string.base": "The Pronounciation Note is required",
-  }),
+  
+  pronounciation_note: Joi.string().trim().optional(),
+
   phrase_category: Joi.string().trim().required().messages({
     "string.base": "The Phrase Category is required",
   }),
