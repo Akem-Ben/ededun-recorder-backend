@@ -44,7 +44,7 @@ const userRegisterSchemaViaEmail = Joi.object({
     "string.base": "Last Name is required",
   }),
 
-  phoneNumber: Joi.string().trim().required().messages({
+  phone: Joi.string().trim().required().messages({
     "string.base": "Phone Number is required",
   }),
 
