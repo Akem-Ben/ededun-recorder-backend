@@ -34,8 +34,6 @@ const userAddsRecording = async (
         payload
     );
 
-    console.log('check', newRecording)
-
     return responseUtilities.responseHandler(
         response,
         newRecording.message,
