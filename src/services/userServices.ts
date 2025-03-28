@@ -91,19 +91,19 @@ const getAllMyRecordings = errorUtilities.withErrorHandling(
             };
         }));
 
-        const itemsPerPage = 10;
-        const totalItems = recordingsWithPhrases.length;
-        const totalPages = Math.ceil(totalItems / itemsPerPage);
-        const paginatedData = recordingsWithPhrases.slice((page - 1) * itemsPerPage, page * itemsPerPage);
+        // const itemsPerPage = 10;
+        // const totalItems = recordingsWithPhrases.length;
+        // const totalPages = Math.ceil(totalItems / itemsPerPage);
+        // const paginatedData = recordingsWithPhrases.slice((page - 1) * itemsPerPage, page * itemsPerPage);
 
         return responseUtilities.handleServicesResponse(
             200,
             'Phrases and recordings fetched successfully',
             {
-                currentPage: page,
-                totalPages,
-                totalItems,
-                data: paginatedData
+                // currentPage: page,
+                // totalPages,
+                // totalItems,
+                data: recordingsWithPhrases
             }
         );
     }
