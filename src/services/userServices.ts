@@ -91,8 +91,6 @@ const getAllMyRecordings = errorUtilities.withErrorHandling(
             };
         }));
 
-        const phrases = await phrasesRepository.phrasesRepository.getMany({})
-
         // const itemsPerPage = 10;
         // const totalItems = recordingsWithPhrases.length;
         // const totalPages = Math.ceil(totalItems / itemsPerPage);
@@ -105,7 +103,7 @@ const getAllMyRecordings = errorUtilities.withErrorHandling(
                 // currentPage: page,
                 // totalPages,
                 // totalItems,
-                data: {recordingsWithPhrases, length:phrases.length}
+                data: recordingsWithPhrases
             }
         );
     }
